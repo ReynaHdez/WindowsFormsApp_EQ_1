@@ -1,0 +1,13 @@
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\bin\Debug\WindowsFormsApp_EQ_1.exe.config
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\bin\Debug\WindowsFormsApp_EQ_1.exe
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\bin\Debug\WindowsFormsApp_EQ_1.pdb
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.csproj.AssemblyReference.cache
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.Form1.resources
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.Properties.Resources.resources
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.csproj.GenerateResource.cache
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.csproj.CoreCompileInputs.cache
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.exe
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.pdb
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.Pc202_1_PromUsuario.resources
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.Pc2023_2_PromUsuario_2.resources
