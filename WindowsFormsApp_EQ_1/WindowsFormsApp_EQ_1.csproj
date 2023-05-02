@@ -58,6 +58,12 @@
     <Compile Include="Pc2023_2_PromUsuario_2.Designer.cs">
       <DependentUpon>Pc2023_2_PromUsuario_2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Pc2023_3_Fibunaci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pc2023_3_Fibunaci.Designer.cs">
+      <DependentUpon>Pc2023_3_Fibunaci.cs</DependentUpon>
+    </Compile>
     <Compile Include="Pc202_1_PromUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Pc2023_2_PromUsuario_2.resx">
       <DependentUpon>Pc2023_2_PromUsuario_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pc2023_3_Fibunaci.resx">
+      <DependentUpon>Pc2023_3_Fibunaci.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pc202_1_PromUsuario.resx">
       <DependentUpon>Pc202_1_PromUsuario.cs</DependentUpon>

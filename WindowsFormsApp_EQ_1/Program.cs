@@ -16,7 +16,7 @@ namespace WindowsFormsApp_EQ_1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Pc2023_2_PromUsuario_2());
+            Application.Run(new Pc2023_3_Fibunaci());
         }
     }
 }

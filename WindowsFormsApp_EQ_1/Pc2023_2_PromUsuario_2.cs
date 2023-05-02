@@ -13,7 +13,7 @@ namespace WindowsFormsApp_EQ_1
 {
     public partial class Pc2023_2_PromUsuario_2 : Form
     {
-        [DllImport(@"C:\Users\Reyna\source\repos\PM_U5_EQ_1\Debug\PM_U5_EQ_1.dll")]
+        
         static extern int promUsuario(StringBuilder strRes,string srt, int cal1, int cal2, int cal3);
         public Pc2023_2_PromUsuario_2()
         {
