@@ -12,3 +12,4 @@ C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\
 C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.Pc202_1_PromUsuario.resources
 C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.Pc2023_2_PromUsuario_2.resources
 C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.Pc2023_3_Fibunaci.resources
+C:\Users\Reyna\source\repos\WindowsFormsApp_EQ_1\WindowsFormsApp_EQ_1\obj\Debug\WindowsFormsApp_EQ_1.Pc2023_4_Velocidad.resources

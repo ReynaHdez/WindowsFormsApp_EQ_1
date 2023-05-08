@@ -64,6 +64,12 @@
     <Compile Include="Pc2023_3_Fibunaci.Designer.cs">
       <DependentUpon>Pc2023_3_Fibunaci.cs</DependentUpon>
     </Compile>
+    <Compile Include="Pc2023_4_Velocidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pc2023_4_Velocidad.Designer.cs">
+      <DependentUpon>Pc2023_4_Velocidad.cs</DependentUpon>
+    </Compile>
     <Compile Include="Pc202_1_PromUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +86,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Pc2023_3_Fibunaci.resx">
       <DependentUpon>Pc2023_3_Fibunaci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pc2023_4_Velocidad.resx">
+      <DependentUpon>Pc2023_4_Velocidad.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pc202_1_PromUsuario.resx">
       <DependentUpon>Pc202_1_PromUsuario.cs</DependentUpon>

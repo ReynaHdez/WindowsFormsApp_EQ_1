@@ -33,7 +33,7 @@ namespace WindowsFormsApp_EQ_1
 
             // Llamar a la función fibunacci para obtener la serie
             int tn = 0;
-            string serie = $"{t0} {t1}";
+            string serie = $"{t0} - {t1} -";
             for (int i = 0; i < 8; i++)
             {
                 tn = fibunacci(t0, t1);
