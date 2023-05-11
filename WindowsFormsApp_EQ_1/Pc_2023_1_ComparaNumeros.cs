@@ -20,6 +20,13 @@ namespace WindowsFormsApp_EQ_1
             InitializeComponent();
         }
 
+        private int GenerarNumeroAleatorio()
+        {
+            Random rnd = new Random();
+            return rnd.Next(1000, 10000);
+        }
+
+
         private void Pc_2023_1_ComparaNumeros_Load(object sender, EventArgs e)
         {
 
@@ -30,10 +37,23 @@ namespace WindowsFormsApp_EQ_1
         {
             sb = new StringBuilder();
             sb.Clear();
-            int largo = comparaNumeros(sb, "Coche Azul", 56, 59, 2);
+            int largo = comparaNumeros(sb, "Picas y Fijas", 56, 59, 2);
             string c = sb.ToString();
             c = c.Substring(0, largo);
             MessageBox.Show(c);
         }
+
+        private void txtDatos_TextChanged(object sender, EventArgs e)
+        {
+            if (txtDatos.Text.Length == 4 && txtDatos.Text.All(char.IsDigit))
+            {
+                // El valor ingresado es válido
+            }
+            else
+            {
+                // Mostrar un mensaje de error o realizar alguna acción
+            }
+        }
+
     }
 }
