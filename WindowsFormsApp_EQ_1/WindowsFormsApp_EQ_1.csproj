@@ -76,6 +76,12 @@
     <Compile Include="Pc202_1_PromUsuario.Designer.cs">
       <DependentUpon>Pc202_1_PromUsuario.cs</DependentUpon>
     </Compile>
+    <Compile Include="Pc_2023_1_ComparaNumeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pc_2023_1_ComparaNumeros.Designer.cs">
+      <DependentUpon>Pc_2023_1_ComparaNumeros.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -92,6 +98,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Pc202_1_PromUsuario.resx">
       <DependentUpon>Pc202_1_PromUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pc_2023_1_ComparaNumeros.resx">
+      <DependentUpon>Pc_2023_1_ComparaNumeros.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
